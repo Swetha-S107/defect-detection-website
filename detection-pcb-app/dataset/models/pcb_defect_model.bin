@@ -1,0 +1,3 @@
+# Placeholder for trained PCB defect detection model weights.
+# Replace this with your actual .h5, .pt, or .bin model file.
+MODEL_WEIGHTS_V1_STUB

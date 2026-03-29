@@ -1,0 +1,11 @@
+{
+  "dataset_name": "PCB Defect Detection Dataset",
+  "version": "1.0.0",
+  "description": "Trained dataset for detecting defects like missing components, short circuits, and open circuits.",
+  "classes": ["Normal", "Missing Component", "Short Circuit", "Open Circuit", "Solder Bridge"],
+  "model_info": {
+    "architecture": "CNN / Vision Transformer",
+    "last_trained": "2026-03-10",
+    "accuracy": "98.5%"
+  }
+}

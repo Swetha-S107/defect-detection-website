@@ -1,0 +1,16 @@
+# Python Requirements (Conceptual for CNN implementation)
+# This project is implemented using Node.js and Gemini AI for production-ready vision analysis.
+tensorflow>=2.15.0
+opencv-python>=4.9.0
+numpy>=1.26.0
+flask>=3.0.0
+flask-cors>=4.0.0
+pillow>=10.2.0
+
+# Node.js Dependencies (Actual)
+# express
+# @google/genai
+# multer
+# react
+# tailwindcss
+# motion
